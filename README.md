@@ -1,92 +1,80 @@
-<h1 align="center">Hi there 👋, I'm Samuel</h1>
-<h3 align="center">💻 Full Stack Engineer | 🤖 Machine Learning Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-Building scalable systems, intelligent applications, and impactful projects.
-</p>
+# Hi, I'm Samuel Gashu 👋
 
----
+### Full Stack Engineer & AI/ML Developer specializing in RAG pipelines & recommendation systems
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Django and ML projects**
-- 🌱 Continuously learning **Machine Learning and AI**
-- 💡 Passionate about turning ideas into **real-world systems**
-- 🎯 Goal: Contribute to meaningful tech that **makes a difference**
-- ⚡ Fun fact: I enjoy exploring new technologies and frameworks
+I build production backends with Django REST Framework and design retrieval-augmented systems that power real applications.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-gashu-30b15b1b5)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/habrev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/habrev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samuelgashu11@gmail.com)
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/samuel-gashu-30b15b1b5" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://stackoverflow.com/users/habrev" target="_blank">
-<img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
-</a>
-<a href="https://kaggle.com/habrev" target="_blank">
-<img src="https://skillicons.dev/icons?i=kaggle" height="40"/>
-</a>
-</p>
+</div>
 
-📫 **Email:** samuelgashu11@gmail.com
+<br>
 
----
+## About Me
 
-### 🧠 Tech Stack
+- 🧠 Focused on **RAG pipelines, recommendation systems, and Django REST Framework** backends
+- 💼 Freelance developer (Top Rated on Upwork) working with clients on AI-powered chatbots and full-stack products
+- 🌱 Deepening expertise in vector search, embedding-based retrieval, and applied ML systems
+- 🎯 Goal: ship AI systems that are reliable, well-architected, and genuinely useful — not just demos
 
-#### 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp" />
-</p>
+<br>
 
-#### 🌐 Full Stack Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,vue,nuxt,tailwind,bootstrap" />
-</p>
+## Tech Stack
 
-#### 🧠 Machine Learning & Data
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-<img src="https://cdn.simpleicons.org/pandas" height="40"/>
-<img src="https://cdn.simpleicons.org/scikitlearn" height="40"/>
-</p>
+**Languages**
 
-#### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-</p>
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp)
 
-#### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,azure,postman,figma" />
-</p>
+**Backend & APIs**
 
----
+![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=habrev&show_icons=true&theme=tokyonight" />
-</p>
+**Frontend**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=habrev&layout=compact&theme=tokyonight" />
-</p>
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vue](https://skillicons.dev/icons?i=vue) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
----
+**AI / ML & Data**
 
-### 🔥 What I’m Focused On
-- Building **Full Stack Applications**
-- Developing **Machine Learning models**
-- Exploring **new technologies and frameworks**
-- Contributing to **open-source projects**
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv)
+<img src="https://cdn.simpleicons.org/pandas" height="32"/> <img src="https://cdn.simpleicons.org/scikitlearn" height="32"/> <img src="https://cdn.simpleicons.org/chromadb" height="32"/>
 
----
+**Databases**
 
-### 💬 Let’s Connect
-I’m open to collaboration on:
-- Full Stack Projects  
-- Machine Learning Applications  
-- Open Source Development  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-Let’s create something amazing 🚀
+**Infrastructure & Tools**
+
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma)
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=habrev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habrev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## Currently Focused On
+
+- Designing and optimizing **RAG pipelines** — embeddings, vector search, and retrieval-aware chunking
+- Building **recommendation engines** with careful attention to selection logic, cooldowns, and content coverage
+- Shipping full-stack products end to end with **Django REST Framework + React/React Native**
+- Open to **freelance and collaborative work** on AI-powered applications and full-stack systems
+
+<br>
+
+<div align="center">
+
+📫 Reach me at **samuelgashu11@gmail.com** — always happy to talk RAG, recommendation systems, or full-stack architecture.
+
+</div>
