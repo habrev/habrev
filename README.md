@@ -68,8 +68,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=habrev&style=for-the-badge&color=00c6ff" alt="profile views"/>
-
 📫 Reach me at **samuelgashu11@gmail.com** — always happy to talk RAG, recommendation systems, or full-stack architecture.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0F2027&height=100&section=footer" width="100%"/>
